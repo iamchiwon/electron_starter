@@ -20,6 +20,7 @@ yarn add electron-is-dev
 - concurrently : 두 개 이상의 명령어를 실행할 수 있게 해 줍니다.
 - wait-on : 특정 파일(포트)이 활성화될 때까지 대기해 줍니다.
 - cross-env : 윈도즈 환경이든 맥, 리눅스 환경이든 시스템에 관계없이 환경변수 값을 설정할 수 있게 해 줍니다.
+- electron-is-dev 패키지는 현재 electron이 로드된 상태가 development상태인지 production 상태인지 구분해서 React Hot Reloading을 위한 electron loadURL 경로를 바꿔 주는 역할을 합니다.
 
 ## electron.js
 
