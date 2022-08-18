@@ -1,6 +1,6 @@
 # React + Typescript + Electron
 
-> https://cpro95.tistory.com/185
+> [https://cpro95.tistory.com/185](https://cpro95.tistory.com/185)
 
 ## create react app
 
